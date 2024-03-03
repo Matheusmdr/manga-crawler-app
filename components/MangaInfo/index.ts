@@ -1,0 +1,1 @@
+export  { MainInfo } from './components/MainInfo'
